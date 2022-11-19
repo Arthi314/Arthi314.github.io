@@ -10,7 +10,7 @@ redirect_from:
 
 I completed my M.Tech. in Communication Systems from IIT Madras in 2017 and B.E. in Electronics and Communications from College of Engineering Guindy, Chennai in 2015. I worked as a Radio Frequency Engineer in Qualcomm India Pvt. Ltd. for 3 years (2017-2020). In October 2020, I joined IISc and I am currently pursuing Ph.D. in ECE Dept with Prof. Neelesh B Mehta. I am a recipient of the Prime Minister's Research Fellowship award by Ministry of Education, Govt of India. My current interests are in the areas of Next generation WLAN systems
 
-Please find my CV [here](http://arthi314.github.io/files/ArthiS_CV.pdf).
+Please find my Resume [here](http://arthi314.github.io/files/ArthiS_CV.pdf).
 
 
 
