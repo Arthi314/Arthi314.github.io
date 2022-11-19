@@ -11,14 +11,23 @@ redirect_from:
 
 Courses
 ======
-* Digital Image Processing
-* Advanced Image Processing
-* Pattern Recognition and Neural Networks
-* Advanced Deep Learning
+* Next Generation Wireless System Design
+* Wireless Communication
+* Wireless Networks
+* Digital Communication
+* Digital Signal Processing
+* Computational Methods in Optimization
+* Digital Modulation and Coding
+* Random Processes
+* Probability Foundations
 * Matrix Theory
-* Stochastic Models and Applications
-* Computational Methods for Optimization
-<!-- * Advanced Deep Representation Learning -->
+* Detection and Estimation Theory
+* Information Theory and Coding
+* Applied Linear Algebra
+* Detection and Estimation Theory
+* Image Signal Processing, 
+* Adaptive Signal Processing
+* Digital Filter Design
 
 Teaching Experience
 ======
