@@ -22,5 +22,10 @@ Courses
 
 Teaching Experience
 ======
-* TA for the course **Digital Image Processing**, Fall 2021, at IISc.
-* TA for the course **[Deep Learning for Computer Vision](https://onlinecourses.nptel.ac.in/noc22_cs76/preview)**, Fall 2022, offered by NPTEL.
+* TA for the course **Information Theory for Computer Science**, at Dayananda Sagar University, Bengaluru as a Visiting Faculty (Aug 2022 – Dec 2022).
+
+Research
+======
+* Understand new (IEEE 802.11ax) and emerging (IEEE 802.11be) WLAN PHY and MAC protocols
+* Analytically model and optimize emerging WLAN PHY and MAC standards
+* Non-saturated throughput and latency analysis in Uplink Multi-user transmissions 
