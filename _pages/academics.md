@@ -22,7 +22,7 @@ Courses
 
 Teaching Experience
 ======
-* TA for the course **Information Theory for Computer Science**, at Dayananda Sagar University, Bengaluru as a Visiting Faculty (Aug 2022 – Dec 2022).
+* TA for the course **Information Theory for Computer Science**, at Dayananda Sagar University, Bengaluru as a visiting Faculty from Aug 2022 to Dec 2022.
 
 Research
 ======
