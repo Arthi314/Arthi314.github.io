@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## PhD Scholar
+**PhD Scholar**
 
 [Department of Electrical Communication Engineering](https://ece.iisc.ac.in/)
 
