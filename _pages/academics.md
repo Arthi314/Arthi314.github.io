@@ -22,7 +22,7 @@ Coursework
 
 
 
-Teaching Experience
+Teaching
 ======
 * Visiting Faculty for the course **Information Theory for Computer Science**
 * Aug 2022 to Dec 2022
