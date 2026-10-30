@@ -4,6 +4,9 @@ permalink: /
 title: ""
 excerpt: "home"
 author_profile: true
+  - /home/
+  - /home.html
+  - /default.html
 ---
 
 **Welcome to my homepage!**
