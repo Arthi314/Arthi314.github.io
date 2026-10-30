@@ -8,15 +8,10 @@ redirect_from:
   - /home.html
 ---
 
-**PhD Scholar**
+**Welcome to my homepage!**
 
-Department of ECE, IISc
+I am a Ph.D. researcher in the Department of Electrical Communication Engineering (ECE) at the Indian Institute of Science (IISc), Bangalore, India. I am a recipient of the Qualcomm Innovation Fellowship (QIF) in 2025 (Super Winner) and 2024 (Winner) and held the Prime Minister’s Research Fellowship (PMRF) from 2021 to 2024. My research focuses on the modeling, performance analysis, and optimization of next-generation IEEE 802.11 (Wi-Fi) systems.
 
-[Next Generation Wireless Systems Lab](https://ece.iisc.ac.in/~nextgenwrl/index.html )
-
-In October 2020, I joined IISc and I am currently pursuing Ph.D. in ECE Dept with Prof. Neelesh B Mehta. Before joining IISc, I worked as a Radio Frequency Engineer in [Qualcomm India Pvt.Ltd.](https://www.qualcomm.com/home) for 3 years. I completed my M.Tech. in Communication Systems from [IIT Madras](https://www.iitm.ac.in/) in 2017 and B.E. in Electronics and Communications from College of Engineering Guindy, Chennai in 2015. I am a recipient of the Prime Minister's Research Fellowship award by Ministry of Education, Govt of India. My current interests are in the areas of Next generation WLAN systems.
-
-My resume is available [here](http://arthi314.github.io/files/Arthi_CV.pdf).
 
 
 
