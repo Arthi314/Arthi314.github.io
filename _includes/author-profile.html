@@ -35,7 +35,19 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.personal_email %}
-        <li><a href="mailto:{{ site.author.personal_email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Personal Email</a></li>
+        <li>
+          <a href="mailto:{{ site.author.personal_email }}">
+            <!-- Gmail M Logo SVG -->
+            <svg class="svg-inline--fa fa-envelope fa-w-16" style="width: 1em; height: 1em; vertical-align: -0.125em; margin-right: 0.35em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+              <path fill="#ea4335" d="M64 112c-26.5 0-48 21.5-48 48v228c0 26.5 21.5 48 48 48h384c26.5 0 48-21.5 48-48V160c0-26.5-21.5-48-48-48H64z"/>
+              <path fill="#c5221f" d="M256 272l192-120H64l192 120z"/>
+              <path fill="#fbbc04" d="M64 152v236l128-112-128-124z"/>
+              <path fill="#34a853" d="M448 152l-128 124 128 112V152z"/>
+              <path fill="#4285f4" d="M320 276L256 320l-64-44-128 112h384L320 276z"/>
+            </svg>
+            Personal Email
+          </a>
+        </li>
       {% endif %}      
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
