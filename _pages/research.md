@@ -18,7 +18,7 @@ My research draws on stochastic modeling and optimization techniques, including 
 
 •	Developed a cross-layer analysis that accurately characterizes the saturation throughput in time-varying channels to account for small-scale fading and feedback delays
 
-**Associated publication:**
+*Associated publication:*
 
 [J1] S. Arthi, N. B. Mehta, and C. Singh, “Hybrid access MAC protocol in Wi-Fi: Analysis and optimal resource allocation policy design,” IEEE Trans. Mob. Comput., vol. 25, no. 4, pp. 5742-5757, Apr. 2026.
 
@@ -34,7 +34,7 @@ My research draws on stochastic modeling and optimization techniques, including 
 
 •	Determined the optimal contention parameters for the access point that ensured a fair co-existence between multi-link and legacy users
 
-**Associated publications:**
+*Associated publications:*
 
 [J1] S. Arthi and N. B. Mehta, “Multi-link operation modes in Wi-Fi 7 with UORA: Throughput and access delay comparisons,” under review in IEEE Trans. Mobile Comput., 2026.
 
@@ -48,7 +48,7 @@ My research draws on stochastic modeling and optimization techniques, including 
 
 •	Characterized the saturation throughput and access delay of multi-link users when they support eMLSR mode in Wi-Fi 7.
 
-**Associated publications:**
+*Associated publications:*
 
 [C1] K. Tushar Vikash, S. Arthi, and N. B. Mehta, “Saturation throughput and mean access delay of enhanced multi-link single-radio in Wi-Fi 7,” submitted to IEEE Wireless Commun. Netw. Conf. (WCNC), 2027.
 
