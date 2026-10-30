@@ -4,7 +4,7 @@ title: "About me"
 excerpt: "about"
 author_profile: true
 redirect_from: 
-  - /resume/
+  - /resume
 ---
 
 **Brief biography**
