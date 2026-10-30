@@ -1,22 +1,31 @@
 ---
 permalink: /
 title: 
-excerpt: "About"
+excerpt: "teaching"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**PhD Scholar**
+**Teaching**
+------------------------------------------------------------
+•	Teaching Assistant, Indian Institute of Science (IISc), Bangalore
+Jan. – Apr. 2025: Wireless Communications
+Instructor: Prof. Neelesh B. Mehta
 
-Department of ECE, IISc
+•	Course Instructor, Institute of Smart Structures and Systems (ISSS)
+o	Sep. – Oct. 2024: Modeling and Analysis of Wi-Fi MAC Protocols
+o	Mar. – May 2024: Wireless Networking
+o	Aug. 2023 – Jan. 2024: Matrix Analysis
 
-[Next Generation Wireless Systems Lab](https://ece.iisc.ac.in/~nextgenwrl/index.html )
+•	Course Instructor, Dayananda Sagar University, Bangalore
+Sep. – Dec. 2022: Information Theory in Computer Science
 
-In October 2020, I joined IISc and I am currently pursuing Ph.D. in ECE Dept with Prof. Neelesh B Mehta. Before joining IISc, I worked as a Radio Frequency Engineer in [Qualcomm India Pvt.Ltd.](https://www.qualcomm.com/home) for 3 years. I completed my M.Tech. in Communication Systems from [IIT Madras](https://www.iitm.ac.in/) in 2017 and B.E. in Electronics and Communications from College of Engineering Guindy, Chennai in 2015. I am a recipient of the Prime Minister's Research Fellowship award by Ministry of Education, Govt of India. My current interests are in the areas of Next generation WLAN systems.
+•	Teaching Assistant, Indian Institute of Technology (IIT) Madras
+Jan. – Apr. 2017: Introduction to Wireless and Cellular Communications
+Instructor: Prof. R. David Koilpillai
 
-My resume is available [here](http://arthi314.github.io/files/Arthi_CV.pdf).
 
 
 
