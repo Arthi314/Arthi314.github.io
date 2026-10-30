@@ -3,13 +3,10 @@ permalink: /
 title: 
 excerpt: "teaching"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 **Teaching**
-------------------------------------------------------------
+
 •	Teaching Assistant, Indian Institute of Science (IISc), Bangalore
 Jan. – Apr. 2025: Wireless Communications
 Instructor: Prof. Neelesh B. Mehta
