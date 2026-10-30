@@ -4,9 +4,6 @@ title:
 excerpt: "about"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
-  - /default.html
 ---
 
 **Brief biography**
