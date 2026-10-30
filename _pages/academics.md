@@ -4,7 +4,7 @@ title:
 permalink: /academics/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
 <!-- {% include base_path %} -->
