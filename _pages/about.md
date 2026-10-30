@@ -1,10 +1,12 @@
 ---
+layout: single
 permalink: /
 title: "About me"
-excerpt: "about"
+excerpt: "home"
 author_profile: true
 redirect_from: 
-  - /resume
+  - /home/
+  - /home.html
 ---
 
 **Brief biography**
