@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive
+permalink: /teaching/
 title: 
 excerpt: "teaching"
 author_profile: true
