@@ -1,10 +1,13 @@
 ---
-permalink: /about/
-title: 
-excerpt: "about"
+layout: single
+permalink: /
+title: "About me"
+excerpt: "home"
 author_profile: true
 redirect_from: 
-  - /resume
+  - /home/
+  - /home.html
+  - /default.html
 ---
 
 **Brief biography**
