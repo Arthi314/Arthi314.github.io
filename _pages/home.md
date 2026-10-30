@@ -14,7 +14,7 @@ redirect_from:
 
 I am a Ph.D. researcher in the Department of Electrical Communication Engineering (ECE) at the Indian Institute of Science (IISc), Bangalore, India. I am a recipient of the Qualcomm Innovation Fellowship (QIF) in 2025 (Super Winner) and 2024 (Winner) and held the Prime Minister’s Research Fellowship (PMRF) from 2021 to 2024. My research focuses on the modeling, performance analysis, and optimization of next-generation IEEE 802.11 (Wi-Fi) systems.
 
-Detailed CV is available at: [CV](files/Arthi_CV.pdf)
+Detailed CV is available at: [CV](https://github.com/Arthi314/Arthi314.github.io/blob/main/files/Arthi_CV.pdf)
 
 
 
