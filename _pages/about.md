@@ -5,8 +5,7 @@ title: "About me"
 excerpt: "home"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+
 ---
 
 **Brief biography**
