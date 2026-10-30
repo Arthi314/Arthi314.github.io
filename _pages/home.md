@@ -3,6 +3,7 @@ permalink: /
 title: 
 excerpt: "home"
 author_profile: true
+  - /resume
 ---
 
 **Welcome to my homepage!**
