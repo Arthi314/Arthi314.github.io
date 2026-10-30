@@ -3,7 +3,6 @@ permalink: /
 title: 
 excerpt: "teaching"
 author_profile: true
-  - /resume
 ---
 
 **Teaching**
