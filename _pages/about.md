@@ -12,7 +12,7 @@ Arthi S. received her B.E. in Electronics and Communication Engineering from the
 
 **Education**
 
-•	Ph.D in Engineering (Oct. 2020 - Sept. 2026): Electrical Communication Engineering, Indian Institute of Science, Bangalore, Karnataka, India Under the supervision of [Prof. Neelesh B. Mehta](https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html).
+•	Ph.D in Engineering (Oct. 2020 - Sept. 2026): Electrical Communication Engineering, Indian Institute of Science, Bangalore, Karnataka, India Under the supervision of [Prof. Neelesh B. Mehta](https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html)
 
 •	M.Tech in Communication Systems (July 2015 – June 2017): Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India.
 
