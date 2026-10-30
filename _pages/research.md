@@ -14,9 +14,9 @@ My research draws on stochastic modeling and optimization techniques, including 
 
 **Hybrid access OFDMA in IEEE 802.11ax/Wi-Fi 6:**
 
-•	Designed an optimal policy that dynamically allocates resources for random and scheduled access, addressing the fundamental trade-off between saturation throughput and average access delay
+*	Designed an optimal policy that dynamically allocates resources for random and scheduled access, addressing the fundamental trade-off between saturation throughput and average access delay
 
-•	Developed a cross-layer analysis that accurately characterizes the saturation throughput in time-varying channels to account for small-scale fading and feedback delays
+*	Developed a cross-layer analysis that accurately characterizes the saturation throughput in time-varying channels to account for small-scale fading and feedback delays
 
 *Associated publication:*
 
@@ -28,11 +28,11 @@ My research draws on stochastic modeling and optimization techniques, including 
 
 **Multi-link operation with uplink OFDMA random access in IEEE 802.11be/Wi-Fi 7:**
 
-•	Characterized the throughput and access delay performance for simultaneous (STR) and non-simultaneous (NSTR) multi-link operation modes with and without legacy users
+*	Characterized the throughput and access delay performance for simultaneous (STR) and non-simultaneous (NSTR) multi-link operation modes with and without legacy users
 
-•	Identified the operating regimes in which the shortest/longest back-off rule yielded a higher throughput for NSTR with OFDMA-based random access
+*	Identified the operating regimes in which the shortest/longest back-off rule yielded a higher throughput for NSTR with OFDMA-based random access
 
-•	Determined the optimal contention parameters for the access point that ensured a fair co-existence between multi-link and legacy users
+*	Determined the optimal contention parameters for the access point that ensured a fair co-existence between multi-link and legacy users
 
 *Associated publications:*
 
@@ -46,7 +46,7 @@ My research draws on stochastic modeling and optimization techniques, including 
 
 **Enhanced multi-link single-radio (eMLSR) in IEEE 802.11 be/Wi-Fi 7:**
 
-•	Characterized the saturation throughput and access delay of multi-link users when they support eMLSR mode in Wi-Fi 7.
+*	Characterized the saturation throughput and access delay of multi-link users when they support eMLSR mode in Wi-Fi 7.
 
 *Associated publications:*
 
