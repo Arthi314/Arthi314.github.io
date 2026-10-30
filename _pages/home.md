@@ -1,6 +1,6 @@
 ---
 permalink: /home/
-title: "Home"
+title:
 excerpt: "home"
 author_profile: true
   - /resume
