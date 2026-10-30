@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **PhD Scholar**
+****************
 Department of ECE, IISc
 
 Lab: [Next Generation Wireless Systems Lab](https://ece.iisc.ac.in/~nextgenwrl/index.html )
