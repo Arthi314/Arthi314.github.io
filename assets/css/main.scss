@@ -42,3 +42,13 @@
 a {
   text-decoration: none;
 }
+
+/* Remove underlines from sidebar author profile links */
+.author__urls-wrapper a, 
+.author__urls a {
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
