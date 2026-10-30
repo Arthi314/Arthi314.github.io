@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Home Page"
+  - title: "Home"
     url: /HomePage/
     
-  - title: "About"
+  - title: "About me"
     url: /about/
         
   - title: "Research"
@@ -11,6 +11,9 @@ main:
     
   - title: "Publications"
     url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/    
 
 #   - title: "Talks"
 #     url: /talks/    
