@@ -39,16 +39,15 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-a {
-  text-decoration: none;
+/* Force remove all underlines from sidebar author links */
+.sidebar__right .author__urls a,
+.sidebar .author__urls a,
+.author__urls a {
+  text-decoration: none !important;
 }
 
-/* Remove underlines from sidebar author profile links */
-.author__urls-wrapper a, 
-.author__urls a {
-  text-decoration: none;
-  
-  &:hover {
-    text-decoration: underline;
-  }
+.sidebar__right .author__urls a:hover,
+.sidebar .author__urls a:hover,
+.author__urls a:hover {
+  text-decoration: none !important;
 }
