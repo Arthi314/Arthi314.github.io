@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title:""
+title: ""
 excerpt: "home"
 author_profile: true
 ---
