@@ -11,13 +11,13 @@ redirect_from:
 **Brief biography**
 Arthi S. received her B.E. in Electronics and Communication Engineering from the College of Engineering Guindy in 2015 and M.Tech. in Communication Systems from IIT Madras in 2017. Arthi is currently a PhD researcher in the Department of Electrical Communication Engineering, Indian Institute of Science (IISc), Bangalore. She was a Prime Minister's Research Fellow (Aug 2021-July 2024) and a recipient of the Qualcomm Innovation Fellowship India in 2024–2025 and 2025–2026. Her research interests include wireless communications, next-generation WLANs and 5G/6G systems, stochastic modeling of communication systems, and cross-layer performance analysis.
 **Education**
-	Ph.D in Engineering (Oct. 2020 - Sept. 2026): Electrical Communication Engineering, Indian Institute of Science, Bangalore, Karnataka, India (Under the supervision of Prof. Neelesh B. Mehta).
-	M.Tech in Communication Systems (July 2015 – June 2017): Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India.
-	B.E. in Electronics and Communication Engineering (July 2011 – May 2015): College of Engineering Guindy, Chennai, Tamil Nadu, India.
+•	Ph.D in Engineering (Oct. 2020 - Sept. 2026): Electrical Communication Engineering, Indian Institute of Science, Bangalore, Karnataka, India (Under the supervision of Prof. Neelesh B. Mehta).
+•	M.Tech in Communication Systems (July 2015 – June 2017): Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India.
+•	B.E. in Electronics and Communication Engineering (July 2011 – May 2015): College of Engineering Guindy, Chennai, Tamil Nadu, India.
 **Industry and Internship Details**
-	Senior Engineer (Jul. 2017 - Sep. 2020): Qualcomm India Private Limited, Hyderabad, India
-	Student Trainee (Jun. 2016 - Jul. 2016): Samsung R\&D Institute, Bangalore, India.
-	Summer Research Fellow (May 2014 - Jul. 2014): Raman Research Institute, Bangalore, India
+•	Senior Engineer (Jul. 2017 - Sep. 2020): Qualcomm India Private Limited, Hyderabad, India
+•	Student Trainee (Jun. 2016 - Jul. 2016): Samsung R\&D Institute, Bangalore, India.
+•	Summer Research Fellow (May 2014 - Jul. 2014): Raman Research Institute, Bangalore, India
 **Academic Achievements**
 •	Qualcomm Innovation Fellowship (QIF): Super Winner (2025) and Winner (2024).
 •	Prime Minister’s Research Fellowship (PMRF): 2021–2024.
