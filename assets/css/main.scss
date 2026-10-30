@@ -44,10 +44,23 @@
 .sidebar .author__urls a,
 .author__urls a {
   text-decoration: none !important;
+  background-image: none !important; /* Ensures theme border-lines are also removed */
 }
 
 .sidebar__right .author__urls a:hover,
 .sidebar .author__urls a:hover,
 .author__urls a:hover {
   text-decoration: none !important;
+  background-image: none !important;
+}
+
+/* Align top navigation header and layout content to the left */
+.masthead__inner-wrap {
+  max-width: 100% !important;
+  padding-left: 2em !important;
+  padding-right: 2em !important;
+}
+
+.initial-content {
+  max-width: 100% !important;
 }
