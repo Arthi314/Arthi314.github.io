@@ -1,8 +1,7 @@
 ---
-layout: single
-permalink: /
-title: "About me"
-excerpt: "home"
+permalink: /about/
+title: 
+excerpt: "about"
 author_profile: true
 redirect_from: 
   - /home/
