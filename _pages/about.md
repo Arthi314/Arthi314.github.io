@@ -14,28 +14,39 @@ Arthi S. received her B.E. in Electronics and Communication Engineering from the
 **Education**
 
 •	Ph.D in Engineering (Oct. 2020 - Sept. 2026): Electrical Communication Engineering, Indian Institute of Science, Bangalore, Karnataka, India (Under the supervision of Prof. Neelesh B. Mehta).
+
 •	M.Tech in Communication Systems (July 2015 – June 2017): Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India.
+
 •	B.E. in Electronics and Communication Engineering (July 2011 – May 2015): College of Engineering Guindy, Chennai, Tamil Nadu, India.
 
 **Industry and Internship Details**
 
 •	Senior Engineer (Jul. 2017 - Sep. 2020): Qualcomm India Private Limited, Hyderabad, India
+
 •	Student Trainee (Jun. 2016 - Jul. 2016): Samsung R\&D Institute, Bangalore, India.
+
 •	Summer Research Fellow (May 2014 - Jul. 2014): Raman Research Institute, Bangalore, India
 
 **Academic Achievements**
 
 •	Qualcomm Innovation Fellowship (QIF): Super Winner (2025) and Winner (2024).
+
 •	Prime Minister’s Research Fellowship (PMRF): 2021–2024.
+
 •	Indian Academy of Sciences (IAS) Summer Research Fellowship: 2014.
+
 •	Class XII District Topper: Virudhunagar district, Tamil Nadu, with 98.2%.
 
 **Presentation and Poster Talks**
 
 •	Poster presentation on “Saturation Throughput Analysis of UORA-Enabled Multi-Link Operation in IEEE 802.11be Wi-Fi” at IEEE ICC, Glasgow, Scotland, UK, on May 25, 2026.
+
 •	Talk on “Current and Next-Generation Wi-Fi Protocols: Analysis and Optimization” at the EECS Symposium, IISc, on Apr. 9, 2026.
+
 •	Poster presentation on “Making Sense of the New Hybrid Access MAC in IEEE 802.11ax/be” at the Cisco–IISc Interaction on Nov. 13, 2025.
+
 •	Talk on “Making Sense of the New Hybrid Access MAC in IEEE 802.11ax/be” at the IISc–Qualcomm Workshop on Apr. 30, 2025.
+
 •	Talk on “Saturation Throughput Analysis of Hybrid Access MAC Protocol in IEEE 802.11ax WLANs” at IEEE GLOBECOM, Cape Town, South Africa, on Dec. 11, 2024.
 
 **Reviewing:** IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Vehicular Technology (TVT), IEEE Wireless Communication Letters (WCL), IEEE Transactions on Intelligent Vehicles (TIV), IEEE GLOBECOM, COMSNETS, and SPCOM
