@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-**Focus**: Modeling, analysis, and optimization of key features in next-generation IEEE 802.11 (Wi-Fi) systems, with a focus on cross-layer interactions between the physical and MAC layers
+**Research Focus**: Modeling, analysis, and optimization of key features in next-generation IEEE 802.11 (Wi-Fi) systems, with a focus on cross-layer interactions between the physical and MAC layers
 My research draws on stochastic modeling and optimization techniques, including Markov models, renewal theory, fixed-point analysis, Markov decision processes (MDPs), and cross-layer optimization, to analyze and optimize wireless network performance.
 
 **Hybrid access OFDMA in IEEE 802.11ax/Wi-Fi 6:**
