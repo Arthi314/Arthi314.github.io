@@ -14,11 +14,11 @@ Instructor: Prof. Neelesh B. Mehta
 
 *	Course Instructor, Institute of Smart Structures and Systems (ISSS)
 
---    *Sep. – Oct. 2024: Modeling and Analysis of Wi-Fi MAC Protocols*
+    --    *Sep. – Oct. 2024: Modeling and Analysis of Wi-Fi MAC Protocols*
     
---    *Mar. – May 2024: Wireless Networking*
+    --    *Mar. – May 2024: Wireless Networking*
     
---    *Aug. 2023 – Jan. 2024: Matrix Analysis*
+    --    *Aug. 2023 – Jan. 2024: Matrix Analysis*
 
 *	Course Instructor, Dayananda Sagar University, Bangalore
 Sep. – Dec. 2022: Information Theory in Computer Science
