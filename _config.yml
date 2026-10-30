@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arthi S"
+#title                    : "Arthi S"
 title_separator          : "-"
 name                     : &name "Arthi S"
 description              : &description "personal description"
