@@ -25,7 +25,7 @@ author_profile: true
 
 [C4] K. Tushar Vikash, S. Arthi, and N. B. Mehta, “Saturation throughput and mean access delay of enhanced multi-link single-radio in Wi-Fi 7,” submitted to IEEE Wireless Commun. Netw. Conf. (WCNC), 2027
 
-
+=========
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -35,3 +35,4 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+=============
