@@ -8,15 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-**PhD Scholar**
+**Brief biography**
+Arthi S. received her B.E. in Electronics and Communication Engineering from the College of Engineering Guindy in 2015 and M.Tech. in Communication Systems from IIT Madras in 2017. Arthi is currently a PhD researcher in the Department of Electrical Communication Engineering, Indian Institute of Science (IISc), Bangalore. She was a Prime Minister's Research Fellow (Aug 2021-July 2024) and a recipient of the Qualcomm Innovation Fellowship India in 2024–2025 and 2025–2026. Her research interests include wireless communications, next-generation WLANs and 5G/6G systems, stochastic modeling of communication systems, and cross-layer performance analysis.
+**Education**
+	Ph.D in Engineering (Oct. 2020 - Sept. 2026): Electrical Communication Engineering, Indian Institute of Science, Bangalore, Karnataka, India (Under the supervision of Prof. Neelesh B. Mehta).
+	M.Tech in Communication Systems (July 2015 – June 2017): Indian Institute of Technology (IIT) Madras, Chennai, Tamil Nadu, India.
+	B.E. in Electronics and Communication Engineering (July 2011 – May 2015): College of Engineering Guindy, Chennai, Tamil Nadu, India.
+**Industry and Internship Details**
+	Senior Engineer (Jul. 2017 - Sep. 2020): Qualcomm India Private Limited, Hyderabad, India
+	Student Trainee (Jun. 2016 - Jul. 2016): Samsung R\&D Institute, Bangalore, India.
+	Summer Research Fellow (May 2014 - Jul. 2014): Raman Research Institute, Bangalore, India
+**Academic Achievements**
+•	Qualcomm Innovation Fellowship (QIF): Super Winner (2025) and Winner (2024).
+•	Prime Minister’s Research Fellowship (PMRF): 2021–2024.
+•	Indian Academy of Sciences (IAS) Summer Research Fellowship: 2014.
+•	Class XII District Topper: Virudhunagar district, Tamil Nadu, with 98.2%.
+**Presentation and Poster Talks**
+•	Poster presentation on “Saturation Throughput Analysis of UORA-Enabled Multi-Link Operation in IEEE 802.11be Wi-Fi” at IEEE ICC, Glasgow, Scotland, UK, on May 25, 2026.
+•	Talk on “Current and Next-Generation Wi-Fi Protocols: Analysis and Optimization” at the EECS Symposium, IISc, on Apr. 9, 2026.
+•	Poster presentation on “Making Sense of the New Hybrid Access MAC in IEEE 802.11ax/be” at the Cisco–IISc Interaction on Nov. 13, 2025.
+•	Talk on “Making Sense of the New Hybrid Access MAC in IEEE 802.11ax/be” at the IISc–Qualcomm Workshop on Apr. 30, 2025.
+•	Talk on “Saturation Throughput Analysis of Hybrid Access MAC Protocol in IEEE 802.11ax WLANs” at IEEE GLOBECOM, Cape Town, South Africa, on Dec. 11, 2024.
+**Reviewing:** IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Vehicular Technology (TVT), IEEE Wireless Communication Letters (WCL), IEEE Transactions on Intelligent Vehicles (TIV), IEEE GLOBECOM, COMSNETS, and SPCOM
 
-Department of ECE, IISc
-
-[Next Generation Wireless Systems Lab](https://ece.iisc.ac.in/~nextgenwrl/index.html )
-
-In October 2020, I joined IISc and I am currently pursuing Ph.D. in ECE Dept with Prof. Neelesh B Mehta. Before joining IISc, I worked as a Radio Frequency Engineer in [Qualcomm India Pvt.Ltd.](https://www.qualcomm.com/home) for 3 years. I completed my M.Tech. in Communication Systems from [IIT Madras](https://www.iitm.ac.in/) in 2017 and B.E. in Electronics and Communications from College of Engineering Guindy, Chennai in 2015. I am a recipient of the Prime Minister's Research Fellowship award by Ministry of Education, Govt of India. My current interests are in the areas of Next generation WLAN systems.
-
-My resume is available [here](http://arthi314.github.io/files/Arthi_CV.pdf).
 
 
 
