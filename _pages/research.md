@@ -47,7 +47,7 @@ My research draws on stochastic modeling and optimization techniques, including 
 
 **Enhanced multi-link single-radio (eMLSR) in IEEE 802.11 be/Wi-Fi 7:**
 
-*	Characterized the saturation throughput and access delay of multi-link users when they support eMLSR mode in Wi-Fi 7.
+*	Characterized the saturation throughput and access delay of multi-link users when they support eMLSR in Wi-Fi 7.
 
 *Associated publications:*
 
