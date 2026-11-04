@@ -12,7 +12,7 @@ author_profile: true
   
     --    *Jan. – Apr. 2025: Wireless Communications*
 
- 	Instructor: Prof. Neelesh B. Mehta
+ 	  Instructor: Prof. Neelesh B. Mehta
 
 *	Course Instructor, Institute of Smart Structures and Systems (ISSS)
 
@@ -30,7 +30,7 @@ author_profile: true
   
     --    *Jan. – Apr. 2017: Introduction to Wireless and Cellular Communications*
 
- 	Instructor: Prof. R. David Koilpillai
+ 	  Instructor: Prof. R. David Koilpillai
 
 </div>
 
