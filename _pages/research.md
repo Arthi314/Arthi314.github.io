@@ -26,7 +26,7 @@ My research draws on stochastic modeling and optimization techniques, including 
 [J2] S. Arthi and N. B. Mehta, "Cross-layer throughput analysis of hybrid-access Wi-Fi in time-Varying channels," IEEE Wireless Commun. Lett., vol. 15, pp. 3676-3680, Jun. 2026.
 
 [C1] S. Arthi and N. B. Mehta, “Saturation throughput analysis of hybrid access MAC protocol in IEEE 802.11ax WLANs,” in Proc. IEEE Glob. Commun. Conf (GLOBECOM), Cape Town, South Africa, Dec. 2024.
-</div>
+
 **Multi-link operation with uplink OFDMA random access in IEEE 802.11be/Wi-Fi 7:**
 
 *	Characterized the throughput and access delay performance for simultaneous (STR) and non-simultaneous (NSTR) multi-link operation modes with and without legacy users
