@@ -5,7 +5,8 @@ excerpt: "about"
 author_profile: true
 redirect_from: 
 ---
-
+<div style="text-align: justify;" markdown="1">
+  
 **Brief biography**
 
 **Arthi S.** received her B.E. in Electronics and Communication Engineering from the College of Engineering Guindy in 2015 and M.Tech. in Communication Systems from **IIT Madras** in 2017. Arthi is currently a PhD researcher in the Department of Electrical Communication Engineering, **Indian Institute of Science (IISc)**, Bangalore. She was a **Prime Minister's Research Fellow** (Aug 2021-July 2024) and a recipient of the **Qualcomm Innovation Fellowship** India in 2024–2025 and 2025–2026. Her research interests include wireless communications, next-generation WLANs and 5G/6G systems, stochastic modeling of communication systems, and cross-layer performance analysis.
@@ -60,6 +61,8 @@ redirect_from:
 
 *IEEE GLOBECOM, COMSNETS, and SPCOM*
 
+
+</div>
 
 
 
