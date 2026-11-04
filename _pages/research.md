@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-<div style="text-align: justify;">
+<div style="text-align: justify;" markdown="1">
 **Research Focus**: Modeling, analysis, and optimization of key features in next-generation IEEE 802.11 (Wi-Fi) systems, with a focus on cross-layer interactions between the physical and MAC layers.
 My research draws on stochastic modeling and optimization techniques, including Markov models, renewal theory, fixed-point analysis, Markov decision processes (MDPs), and cross-layer optimization, to analyze and optimize wireless network performance.
 </div>
@@ -25,7 +25,7 @@ My research draws on stochastic modeling and optimization techniques, including 
 [J2] S. Arthi and N. B. Mehta, "Cross-layer throughput analysis of hybrid-access Wi-Fi in time-Varying channels," IEEE Wireless Commun. Lett., vol. 15, pp. 3676-3680, Jun. 2026.
 
 [C1] S. Arthi and N. B. Mehta, “Saturation throughput analysis of hybrid access MAC protocol in IEEE 802.11ax WLANs,” in Proc. IEEE Glob. Commun. Conf (GLOBECOM), Cape Town, South Africa, Dec. 2024.
-
+</div>
 **Multi-link operation with uplink OFDMA random access in IEEE 802.11be/Wi-Fi 7:**
 
 *	Characterized the throughput and access delay performance for simultaneous (STR) and non-simultaneous (NSTR) multi-link operation modes with and without legacy users
