@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<div style="text-align: justify;" markdown="1">
+  
 **Journals:**
 
 [J1](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11251194) S. Arthi, N. B. Mehta, and C. Singh, “Hybrid access MAC protocol in Wi-Fi: Analysis and optimal resource allocation policy design,” IEEE Trans. Mob. Comput., vol. 25, no. 4, pp. 5742-5757, Apr. 2026.
@@ -25,6 +26,7 @@ author_profile: true
 
 [C4] K. Tushar Vikash, S. Arthi, and N. B. Mehta, “Saturation throughput and mean access delay of enhanced multi-link single-radio in Wi-Fi 7,” submitted to IEEE Wireless Commun. Netw. Conf. (WCNC), 2027
 
+</div>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
