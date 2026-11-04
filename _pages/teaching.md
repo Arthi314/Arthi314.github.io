@@ -1,12 +1,12 @@
 ---
 layout: archive
 permalink: /teaching/
-title: 
+title: "Teaching"
 excerpt: "teaching"
 author_profile: true
 ---
 
-**Teaching**
+
 
 *	Teaching Assistant, Indian Institute of Science (IISc), Bangalore
   
