@@ -9,8 +9,8 @@ author_profile: true
 **Teaching**
 
 *	Teaching Assistant, Indian Institute of Science (IISc), Bangalore
-Jan. – Apr. 2025: Wireless Communications
-Instructor: Prof. Neelesh B. Mehta
+  
+    --    *Jan. – Apr. 2025: Wireless Communications* Instructor: Prof. Neelesh B. Mehta
 
 *	Course Instructor, Institute of Smart Structures and Systems (ISSS)
 
@@ -21,11 +21,12 @@ Instructor: Prof. Neelesh B. Mehta
     --    *Aug. 2023 – Jan. 2024: Matrix Analysis*
 
 *	Course Instructor, Dayananda Sagar University, Bangalore
-Sep. – Dec. 2022: Information Theory in Computer Science
+  
+    --    *Sep. – Dec. 2022: Information Theory in Computer Science*
 
 *	Teaching Assistant, Indian Institute of Technology (IIT) Madras
-Jan. – Apr. 2017: Introduction to Wireless and Cellular Communications
-Instructor: Prof. R. David Koilpillai
+  
+    --    *Jan. – Apr. 2017: Introduction to Wireless and Cellular Communications* Instructor: Prof. R. David Koilpillai
 
 
 
