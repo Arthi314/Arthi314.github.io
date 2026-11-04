@@ -9,14 +9,14 @@ redirect_from:
   - /home.html
   - /default.html
 ---
-
+<div style="text-align: justify;" markdown="1">
 **Welcome to my homepage!**
 
 I am a Ph.D. researcher in the Department of Electrical Communication Engineering (ECE) at the Indian Institute of Science (IISc), Bangalore, India. I am a recipient of the Qualcomm Innovation Fellowship (QIF) in 2025 (Super Winner) and 2024 (Winner) and held the Prime Minister’s Research Fellowship (PMRF) from 2021 to 2024. My research focuses on the modeling, performance analysis, and optimization of next-generation IEEE 802.11 (Wi-Fi) systems.
 
 Detailed CV is available at: [CV](https://arthi314.github.io/files/Arthi_CV.pdf)
 
-
+</div>
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
