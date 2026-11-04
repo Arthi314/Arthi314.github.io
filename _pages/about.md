@@ -39,15 +39,15 @@ redirect_from:
 
 **Presentation and Poster Talks**
 
-*	Poster presentation on “Saturation Throughput Analysis of UORA-Enabled Multi-Link Operation in IEEE 802.11be Wi-Fi” at IEEE ICC, Glasgow, Scotland, UK, on May 25, 2026.
+*	Poster presentation on “Saturation Throughput Analysis of UORA-Enabled Multi-Link Operation in IEEE 802.11be Wi-Fi” at IEEE ICC, Glasgow, Scotland, UK, on May 25, 2026. [Poster](https://arthi314.github.io/files/Poster1.pdf)
 
-*	Talk on “Current and Next-Generation Wi-Fi Protocols: Analysis and Optimization” at the EECS Symposium, IISc, on Apr. 9, 2026.
+*	Talk on “Current and Next-Generation Wi-Fi Protocols: Analysis and Optimization” at the EECS Symposium, IISc, on Apr. 9, 2026. [Slides](https://arthi314.github.io/files/Talk1.pdf)
 
-*	Poster presentation on “Making Sense of the New Hybrid Access MAC in IEEE 802.11ax/be” at the Cisco–IISc Interaction on Nov. 13, 2025.
+*	Poster presentation on “Making Sense of the New Hybrid Access MAC in IEEE 802.11ax/be” at the Cisco–IISc Interaction on Nov. 13, 2025. [Poster](https://arthi314.github.io/files/Poster2.pdf)
 
-*	Talk on “Making Sense of the New Hybrid Access MAC in IEEE 802.11ax/be” at the IISc–Qualcomm Workshop on Apr. 30, 2025.
+*	Talk on “Making Sense of the New Hybrid Access MAC in IEEE 802.11ax/be” at the IISc–Qualcomm Workshop on Apr. 30, 2025. [Slides](https://arthi314.github.io/files/Talk2.pdf)
 
-*	Talk on “Saturation Throughput Analysis of Hybrid Access MAC Protocol in IEEE 802.11ax WLANs” at IEEE GLOBECOM, Cape Town, South Africa, on Dec. 11, 2024.
+*	Talk on “Saturation Throughput Analysis of Hybrid Access MAC Protocol in IEEE 802.11ax WLANs” at IEEE GLOBECOM, Cape Town, South Africa, on Dec. 11, 2024. [Slides](https://arthi314.github.io/files/Talk3.pdf)
 
 **Reviewing:** 
 
