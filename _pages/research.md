@@ -18,11 +18,11 @@ My research draws on stochastic modeling and optimization techniques, including 
 
 *	Developed a cross-layer analysis that accurately characterizes the saturation throughput in time-varying channels to account for small-scale fading and feedback delays
 
-*Associated publication:*
+*Associated publications:*
 
 [J1] S. Arthi, N. B. Mehta, and C. Singh, “Hybrid access MAC protocol in Wi-Fi: Analysis and optimal resource allocation policy design,” IEEE Trans. Mob. Comput., vol. 25, no. 4, pp. 5742-5757, Apr. 2026.
 
-[J2] S. Arthi and N. B. Mehta, “S. Arthi and N. B. Mehta, "Cross-layer throughput analysis of hybrid-access Wi-Fi in time-Varying channels," IEEE Wireless Commun. Lett., vol. 15, pp. 3676-3680, Jun. 2026.
+[J2] S. Arthi and N. B. Mehta, "Cross-layer throughput analysis of hybrid-access Wi-Fi in time-Varying channels," IEEE Wireless Commun. Lett., vol. 15, pp. 3676-3680, Jun. 2026.
 
 [C1] S. Arthi and N. B. Mehta, “Saturation throughput analysis of hybrid access MAC protocol in IEEE 802.11ax WLANs,” in Proc. IEEE Glob. Commun. Conf (GLOBECOM), Cape Town, South Africa, Dec. 2024.
 
